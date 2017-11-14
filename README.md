@@ -11,7 +11,7 @@ This exercise uses:
 
 [Problem description](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/DM2.pdf) ==> Can I put it here? (ask prof)
 
-[`breast_cancer` dataset (`.csv`)]https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/data.csv
+[`breast_cancer` dataset (`.csv`)](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/data.csv)
 
 
 **Main Notebooks:**
