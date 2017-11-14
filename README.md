@@ -17,7 +17,7 @@ This exercise uses:
 
 + [Part I](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/Eole_Cervenka_DM2_1.ipynb): MLP using the `breast-cancer` dataset
 + [Part II](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/Eole_Cervenka_DM2_2.ipynb): MLP on the XOR function
-+[Part III](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/Eole_Cervenka_DM2_3.ipynb): MLP on the parity function (generalization of XOR)
++ [Part III](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/Eole_Cervenka_DM2_3.ipynb): MLP on the parity function (generalization of XOR)
 
 **Annexe Notebooks (function libraries):**
 
