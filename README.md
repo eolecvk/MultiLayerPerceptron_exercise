@@ -9,16 +9,15 @@ This exercise uses:
 
 **Premise:**
 
-[Problem description](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/DM2.pdf) ==> Can I put it here? (ask prof)
-
-`breast_cancer` dataset [[`.csv`](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/data.csv))]
++ Problem description [`.pdf`(https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/DM2.pdf)] ==> Can I put it here? (ask prof)
++ `breast_cancer` dataset [[`.csv`](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/data.csv))]
 
 
 **Main Notebooks:**
 
-+ [Part I - MLP using the `breast-cancer` dataset](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/Eole_Cervenka_DM2_1.ipynb)
-+ [Part II - MLP on the XOR function](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/Eole_Cervenka_DM2_2.ipynb)
- +[Part III - MLP on the parity function (generalization of XOR)](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/Eole_Cervenka_DM2_3.ipynb)
++ [Part I](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/Eole_Cervenka_DM2_1.ipynb): MLP using the `breast-cancer` dataset
++ [Part II](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/Eole_Cervenka_DM2_2.ipynb): MLP on the XOR function
+ +[Part III](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/Eole_Cervenka_DM2_3.ipynb): MLP on the parity function (generalization of XOR)
 
 **Annexe Notebooks (function libraries):**
 
