@@ -9,18 +9,21 @@ This exercise uses:
 
 **Premise:**
 
-+ Problem description [`.pdf`](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/DM2.pdf) ==> (ask prof)
 + `breast_cancer` dataset [`.csv`](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/data.csv)
 
 
 **Main Notebooks:**
 
-+ [Part I](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/nb_1.ipynb): MLP using the `breast-cancer` dataset
++ Part I: MLP using the `breast-cancer` dataset:
+    * [Data Preparation](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/1_data_preparation.ipynb)
+    * [MLP analysis](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/1_MLP.ipynb)
+    * [Discussion: K in KFold](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/1_discussion_kfold.ipynb)
 + [Part II](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/nb_2.ipynb): MLP on the XOR function
 + [Part III](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/nb_3.ipynb): MLP on the parity function (generalization of XOR)
 
 **Annexe Notebooks (function libraries):**
 
++ [Basic helper function](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/utils/helper_functions.ipynb)
 + [Data preparation functions](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/utils/preparation.ipynb)
 + [Data exploration functions](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/utils/exploration.ipynb) 
 + [MLP related functions](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/utils/MLP_utils.ipynb)
