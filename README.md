@@ -19,7 +19,7 @@ This exercise uses:
     * [MLP analysis](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/1_MLP.ipynb)
     * [Discussion: K in KFold](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/1_discussion_kfold.ipynb)
 + [Part II](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/2_XOR.ipynb): MLP on the XOR function
-+ [Part III](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/2_XOR.ipynb): MLP on the parity function (generalization of XOR)
++ [Part III](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/3_parity_fct.ipynb): MLP on the parity function (generalization of XOR)
 
 **Annexe Notebooks (function libraries):**
 
