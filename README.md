@@ -1,4 +1,4 @@
-# MultiLayerPerceptron_exercise
+﻿# MultiLayerPerceptron_exercise
 
 _An assignement on MultiLayerPerceptron exploring k-fold and the fit on the XOR and the parity function_
 
@@ -18,8 +18,8 @@ This exercise uses:
     * [Data Preparation](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/1_data_preparation.ipynb)
     * [MLP analysis](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/1_MLP.ipynb)
     * [Discussion: K in KFold](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/1_discussion_kfold.ipynb)
-+ [Part II](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/nb_2.ipynb): MLP on the XOR function
-+ [Part III](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/nb_3.ipynb): MLP on the parity function (generalization of XOR)
++ [Part II](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/2_XOR.ipynb): MLP on the XOR function
++ [Part III](https://github.com/eolecvk/MultiLayerPerceptron_exercise/blob/master/3_parity_fct.ipynb): MLP on the parity function (generalization of XOR)
 
 **Annexe Notebooks (function libraries):**
 
